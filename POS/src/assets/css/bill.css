@@ -1,0 +1,44 @@
+h1,h2,h3,h4,h5,p,button,table,a,label,select,div,strong{
+                    
+    font-family:'BoonHome'; 
+    font-weight: bold;
+}
+
+table{
+    border-collapse: collapse;
+    font-family:'BoonHome'; 
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+th  {
+    border: 1px solid #111111;
+    text-align: left;
+    padding: 3px;
+    font-size: 12px;
+}
+
+td  {
+    border: 1px solid #111111;
+    text-align: left;
+    padding: 3px;
+    font-size: 10px;
+}
+
+.titel{
+   
+    text-align: center;
+    font-size: 10px;
+}
+
+.text_bil{
+    font-family: 'BoonHome';
+    text-align: center;
+    font-weight: bold;
+}
+
+.titel_Div{
+    font-family: 'BoonHome';font-size: 10px;font-weight: bold; display:flex; justify-content: space-between;
+}
+
